@@ -1,0 +1,15 @@
+{
+  "name": "react-keycloak-connect",
+  "version": "1.0.1",
+  "description": "Connect React to Keycloak",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "keycloak",
+    "react"
+  ],
+  "author": "Mahdi Alavitabar",
+  "license": "MIT"
+}
