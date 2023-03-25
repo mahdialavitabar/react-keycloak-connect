@@ -7,7 +7,7 @@ The KeycloakProvider is a React component that wraps your application and provid
 To install the package, run:
 
 ```bash
-npm install keycloak-js react
+npm install keycloak-js react-keycloak-connect
 ```
 
 ## Usage
