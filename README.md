@@ -1,4 +1,4 @@
-## React Keycloak Provider
+## React Keycloak Connect
 
 The KeycloakProvider is a React component that wraps your application and provides authentication and authorization capabilities using Keycloak.
 
