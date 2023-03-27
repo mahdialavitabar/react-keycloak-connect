@@ -15,7 +15,7 @@ npm install keycloak-js react-keycloak-connect
 To use the KeycloakProvider, wrap your application with it and pass the required props.
 
 ```typescript
-import { KeycloakProvider } from "./KeycloakProvider";
+import { KeycloakProvider } from "react-keycloak-connect";
 import App from "./App";
 import keycloakConfig from "./keycloak.json";
 
